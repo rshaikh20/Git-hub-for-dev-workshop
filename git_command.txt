@@ -1,0 +1,10 @@
+
+1 : git int    
+2 :  git status
+3 : git add 
+4 : git commit -m "  "
+5 : git restore
+6 : rm testing.pay 
+7 : clear
+8 : 
+
