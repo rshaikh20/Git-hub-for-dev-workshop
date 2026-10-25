@@ -8,7 +8,7 @@
 7 : clear
 8 :  git push origin master
 9 :  git remote -v   
-10 : git remote set-url origin https://[REDACTED]@github.com/rshaikh20/Git-hub-for-dev-workshop.git
+cl10 : git remote set-url origin 
 11 : git commit -m "Text file commit"   
 
 this is some new changes.
