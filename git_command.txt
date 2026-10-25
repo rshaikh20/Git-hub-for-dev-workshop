@@ -6,6 +6,9 @@
 5 : git restore
 6 : rm testing.pay 
 7 : clear
-8 : 
+8 :  git push origin master
+9 :  git remote -v   
+cl10 : git remote set-url origin 
+11 : git commit -m "Text file commit"   
 
 this is some new changes.
